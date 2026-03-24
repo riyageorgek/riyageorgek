@@ -3,7 +3,8 @@
 <img alt="techimage2" src="https://github.com/user-attachments/assets/a7b8876a-989a-42f4-8b54-28774d363c5a" width="600" />
 
 💡 Passionate about **Artificial Intelligence**  
-🚀 Exploring **LLMs, AWS Bedrock, and AI-powered solutions**  
+🚀 Exploring LLMs, AWS Bedrock, and AI-powered solutions  
+🧠 Exploring agentic AI systems that interact, reason, and automate real-world workflows
 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/riyageorgek) 
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/riyageorgek)   
 🌐 View my projects at:  [My GitHub Pages Site](https://riyageorgek.github.io/)
@@ -39,7 +40,7 @@
 ## 📊 GitHub Stats:  
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=riyageorgek&color=blue)
 
- ![GitHub Followers](https://img.shields.io/github/followers/riyageorgek?style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/riyageorgek?style=flat-square)
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=riyageorgek&show_icons=true&theme=tokyonight) 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=riyageorgek&theme=tokyo-night) -->
 
