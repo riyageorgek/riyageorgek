@@ -4,7 +4,7 @@
 
 💡 Passionate about **Artificial Intelligence**  
 🚀 Exploring LLMs, AWS Bedrock, and AI-powered solutions  
-🧠 Exploring agentic AI systems that interact, reason, and automate real-world workflows
+🧠 Exploring agentic AI systems that interact, reason, and automate real-world workflows   
 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/riyageorgek) 
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/riyageorgek)   
 🌐 View my projects at:  [My GitHub Pages Site](https://riyageorgek.github.io/)
