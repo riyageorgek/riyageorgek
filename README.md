@@ -48,7 +48,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riyageorgek&theme=tokyonight)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=riyageorgek&theme=tokyonight)
+<!-- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=riyageorgek&theme=tokyonight) -->
 
 <!--  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyageorgek&theme=tokyonight) -->
 <!-- ![Jokes](https://readme-jokes.vercel.app/api) -->
