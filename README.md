@@ -40,9 +40,9 @@
 ## 📊 GitHub Stats:  
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=riyageorgek&color=blue)
 
-![GitHub Followers](https://img.shields.io/github/followers/riyageorgek?style=flat-square) -->
+![GitHub Followers](https://img.shields.io/github/followers/riyageorgek?style=flat-square) 
 [GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=riyageorgek&show_icons=true&theme=tokyonight)  
-[GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=riyageorgek&theme=tokyo-night) 
+[GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=riyageorgek&theme=tokyo-night) -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyageorgek&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
